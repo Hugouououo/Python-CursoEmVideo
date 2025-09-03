@@ -1,0 +1,13 @@
+#leia valor em metros e exiba em centímetros e milímetros
+
+m = float(input('digite um valor (em metros):'))
+
+print('{}km'.format(m/1000))
+print('{}hm'.format(m/100))
+print('{}dam'.format(m/10))
+print('{}m'.format(m))
+print('{}dm'.format(m*10))
+print('{}cm'.format(m*100))
+print('{}mm'.format(m*1000))
+
+print('\n:]')
