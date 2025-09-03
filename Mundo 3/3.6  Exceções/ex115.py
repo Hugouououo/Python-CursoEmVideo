@@ -1,0 +1,2 @@
+# aparentemente, o ex115 é um menu com tudo q eu já aprendi, principalmente e obviamente envolvendo os últimos módulos como modularização, funções e exceções. 
+# Mas eu to tão de saco cheio desse curso e minhas aulas já acabaram, então eu decidi parar por aqui, tenho anotado tudo q eu aprendi e é o suficiente pra tirar o certificado e ter certeza de q eu saberia fazer praticamente qq coisa se eu precisasse.
